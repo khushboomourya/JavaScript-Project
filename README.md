@@ -10,18 +10,18 @@
   - Fetching and manipulating data from external services.
   - Real-world use cases like weather apps, currency converters, and more.
 
-<h2><b>2. Framework-Based Projects</b></h2>
-Projects built using popular JavaScript frameworks such as React.js, Vue.js, and others.
-Each project demonstrates how to leverage frameworks for building dynamic, responsive user interfaces.
+### 2. Framework-Based Projects
+  - Projects built using popular JavaScript frameworks such as React.js, Vue.js, and others.
+  - Each project demonstrates how to leverage frameworks for building dynamic, responsive user interfaces.
 
-<h2><b>3. JavaScript Concepts</b></h2>
-Projects covering core JavaScript concepts such as closures, promises, async/await, and more.
-Interactive examples to showcase each concept in an easy-to-understand way.
+### 3. JavaScript Concepts
+  - Projects covering core JavaScript concepts such as closures, promises, async/await, and more.
+  - Interactive examples to showcase each concept in an easy-to-understand way.
 
-<h2><b>4. DOM Manipulation</b></h2>
-Projects showcasing how to dynamically manipulate the Document Object Model (DOM) with vanilla JavaScript.
-Practical examples of how to create dynamic content, interactive forms, and custom UI elements.
+### 4. DOM Manipulation
+  - Projects showcasing how to dynamically manipulate the Document Object Model (DOM) with vanilla JavaScript.
+  - Practical examples of how to create dynamic content, interactive forms, and custom UI elements.
 
-<h2><b>5. Event Handling</b></h2>
-Examples of how to effectively use JavaScript for event-driven programming.
-Projects demonstrating how to handle user interactions like clicks, keypresses, and more.
+### 5. Event Handling
+  - Examples of how to effectively use JavaScript for event-driven programming.
+  - Projects demonstrating how to handle user interactions like clicks, keypresses, and more.
