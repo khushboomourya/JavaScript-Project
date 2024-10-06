@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Personal Portfolio website</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div>
+      <h1>Voice Recognition</h1>
+      <textarea
+        rows="5"
+        cols="50"
+        placeholder="Your voice message is here"
+        name="textarea"
+        id="speechToText"
+      ></textarea>
+      <button onclick="voice()">Click to Speak</button>
+    </div>
+
+    <script>
+      function voice() {
+        var recognition = new webkitSpeechRecognition();
+        recognition.lang = "en-GB";
+        recognition.onresult = function (event) {
+          console.log(event);
+          document.getElementById("speechToText").value =
+            event.results[0][0].transcript;
+        };
+        recognition.start();
+      }
+    </script>
+  </body>
+</html>
