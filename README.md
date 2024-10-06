@@ -1,4 +1,4 @@
-JavaScript Projects Repository
+# JavaScript Projects Repository
 
 Welcome to my JavaScript Projects repository! 🎉
 
