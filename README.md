@@ -1,12 +1,12 @@
-<h1><b> JavaScript Projects Repository</b></h1>
+## JavaScript Projects Repository
 
 <p>Welcome to my JavaScript Projects repository! 🎉</p>
 
-<p>This repository is a collection of various JavaScript projects I created for my learning purposes. It showcases different concepts, frameworks, and API integrations. The goal of these projects is to provide practical examples of how to solve real-world problems using JavaScript. Whether I'm exploring basic JavaScript functionalities or diving into frameworks and API integrations, you'll find a variety of projects here that reflect my learning journey.</p>
+<p>This repository is a collection of various JavaScript projects I created for my learning purposes. It showcases different concepts, frameworks, and API integrations. These projects aim to provide practical examples of how to solve real-world problems using JavaScript. Whether I'm exploring basic JavaScript functionalities or diving into frameworks and API integrations, you'll find a variety of projects here that reflect my learning journey.</p>
 
-<h3>Projects Included<h3/>
-<h2><b>1. API Integrations</b></h2>
-Various projects demonstrating how to work with third-party APIs.
+### Projects Included
+#### 1. API Integrations
+Various projects are demonstrating how to work with third-party APIs.
 Fetching and manipulating data from external services.
 Real-world use cases like weather apps, currency converters, and more.
 
