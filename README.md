@@ -24,4 +24,4 @@
 
 ### 5. Event Handling
   - Examples of how to effectively use JavaScript for event-driven programming.
-  - Projects demonstrating how to handle user interactions like clicks, keypresses, and more.
+  - Projects demonstrating how to handle user interactions like clicks, keypresses, and more
