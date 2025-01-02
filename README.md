@@ -12,7 +12,7 @@
 
 ### 2. Framework-Based Projects
   - Projects built using popular JavaScript frameworks such as React.js, Vue.js, and others.
-  - Each project demonstrates how to leverage frameworks for building dynamic, responsive user interfaces.
+  - Each project demonstrates leveraging frameworks for building dynamic, responsive user interfaces.
 
 ### 3. JavaScript Concepts
   - Projects covering core JavaScript concepts such as closures, promises, async/await, and more.
@@ -24,4 +24,4 @@
 
 ### 5. Event Handling
   - Examples of how to effectively use JavaScript for event-driven programming.
-  - Projects demonstrating how to handle user interactions like clicks, keypresses, and more
+  - Projects demonstrating handling user interactions like clicks, keypresses, and more.
